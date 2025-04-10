@@ -39,7 +39,7 @@ const LandingPage = () => {
         {/* Header Section */}
         <header className="mb-16 text-center bg-white rounded-xl p-8 shadow-lg">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">
-            The Workspace that Knows your Workflow, Jlo is amazing at coding
+            The Workspace that Knows your Workflow, Jlo is amazing at coding but sucks at git
           </h1>
           
           <div className="mb-8">
