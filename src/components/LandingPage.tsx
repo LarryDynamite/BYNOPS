@@ -439,7 +439,7 @@ const LandingPage = () => {
           </footer>
         </div>
       </div>
-    </>
+    </>    
   );
 };
 
